@@ -1,0 +1,64 @@
+.navbar {
+  background-color: #fff;
+  border-bottom: 1px solid #e7e7e7;
+  border-radius: 0;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+  
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: relative;
+}
+
+.navbar .navbar-brand {
+  font-family: "DynaPuff", cursive;
+  font-size: 2em;
+  font-weight: bold;
+  margin-right: 20px;
+  padding: 13px 20px;
+  text-decoration: none;
+  color: #f56565;
+}
+
+.navbar .navbar-brand:hover {
+}
+
+.right-items {
+  
+}
+
+/* Underline on hover anim */
+
+.navitemsparent {
+  /* margin: 150px auto 0;
+  padding: 0; */
+  list-style: none;
+  display: table;
+  width: 600px;
+  text-align: center;
+}
+
+.link {
+  /* display: inline-block; */
+  /* padding: 15px 20px; */
+  position: relative;
+  font-size: 1.3em;
+  font-weight: 200;
+  padding: 1.8rem 2rem;
+}
+.link:after {
+  bottom: 0;
+  content: "";
+  display: block;
+  height: 2px;
+  left: 50%;
+  position: absolute;
+  background: red;
+  transition: width 0.3s ease 0s, left 0.3s ease 0s;
+  width: 0;
+}
+.link:hover:after {
+  width: 100%;
+  left: 0;
+}
