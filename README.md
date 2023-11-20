@@ -1,8 +1,8 @@
 Resigna - Attire rental platform
+![Resigna   Rent attires conveniently](https://github.com/TurrabH/Resigna/assets/151545901/48b09a34-ac3e-42d9-90bd-37886cfb0627)
+![Resigna 2](https://github.com/TurrabH/Resigna/assets/151545901/f45a3377-d5ae-4d96-b606-e510b122f8ba)
+![Pasted image 20231025185603](https://github.com/TurrabH/Resigna/assets/151545901/0febd98f-efe8-40fa-aea0-8cf0da944181)
 
-![Resigna   Rent attires conveniently](https://github.com/abdi-z/InternalMD/assets/92116477/30bb7846-b10e-4cf2-a28f-50eb20f58f73)
-![Resigna 2](https://github.com/abdi-z/InternalMD/assets/92116477/340649ec-7cb3-45fd-aaf4-aa4529273f81)
-![Pasted image 20231025185603](https://github.com/abdi-z/InternalMD/assets/92116477/63fca066-12f2-4904-ab4b-28485fa8e0b8)
 
 Details:
 
